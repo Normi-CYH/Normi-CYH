@@ -1,9 +1,9 @@
 ### :wave: Hi, welcome to my page.
 <!--### 嗨 :wave:，歡迎來到我的 GitHub。-->
 ---
-:alien: Hi, I'm  Normi. A Data Analyst and Web Developer from Taiwan <img src="https://hatscripts.github.io/circle-flags/flags/tw.svg" width="20">.
-:book: Master of Science in Statistics :bar_chart: / Bachelor of Science in Mathematics :triangular_ruler:.
-:computer: I'm working on Data Visualization; Web front-end development; Machine Learning.
+:alien: Hi, I'm  Normi. A Data Analyst and Web Developer from Taiwan <img src="https://hatscripts.github.io/circle-flags/flags/tw.svg" width="20">.\
+:book: Master of Science in Statistics :bar_chart: / Bachelor of Science in Mathematics :triangular_ruler:.\
+:computer: I'm working on Data Visualization; Web front-end development; Machine Learning.\
 :trophy: Awarded with the Competitive Master Thesis of the 2022 TSC Thesis Competition.
 
 ---
