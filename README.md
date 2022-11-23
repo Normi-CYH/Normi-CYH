@@ -8,11 +8,13 @@
 
 ---
 #### I coding with
-[![My Skills](https://skillicons.dev/icons?i=py,r,tensorflow,mysql,matlab,md,js,html,css,flask,c,cpp,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,tensorflow,mysql,matlab,md,js,html,css,flask,c,cpp,git&perline=8)](https://skillicons.dev)
 
 #### I using with
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,discord,figma)](https://skillicons.dev)
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Normi-CYH)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
