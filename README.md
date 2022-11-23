@@ -1,4 +1,4 @@
-### :wave: Hi, welcome to my page.
+## :wave: Hi, welcome to my page.
 <!--### 嗨 :wave:，歡迎來到我的 GitHub。-->
 ---
 :alien: Hi, I'm  Normi. A Data Analyst and Web Developer from Taiwan <img src="https://hatscripts.github.io/circle-flags/flags/tw.svg" width="20">.\
@@ -7,10 +7,10 @@
 :trophy: Awarded with the Competitive Master Thesis of the 2022 TSC Thesis Competition.
 
 ---
-#### I coding with
+### I coding with
 [![My Skills](https://skillicons.dev/icons?i=py,r,tensorflow,mysql,matlab,md,js,html,css,flask,c,cpp,git&perline=8)](https://skillicons.dev)
 
-#### I using with
+### I using with
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,discord,figma)](https://skillicons.dev)
 
 ---
