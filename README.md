@@ -1,3 +1,4 @@
+![](https://github.com/Normi-CYH/Normi-CYH/blob/main/resource/normi.gif?raw=true)
 ## <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" alt="Coder GIF" width="40"> Hi, welcome to my page.
 <!--### 嗨 :wave:，歡迎來到我的 GitHub。-->
 
