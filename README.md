@@ -19,7 +19,8 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,discord,figma)](https://skillicons.dev)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Normi-CYH)](https://github.com/anuraghazra/github-readme-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ChenYiHsuan?theme=unicorn&font=Autour%20One&ext=heatmap)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Normi-CYH)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
