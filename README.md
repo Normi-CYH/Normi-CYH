@@ -7,19 +7,26 @@
 ### About me
 ---
 :alien: Hi, I'm  Normi. A Data Analyst and Web Developer from Taiwan <img src="https://hatscripts.github.io/circle-flags/flags/tw.svg" width="20">.\
-:book: Master of Science in Statistics :bar_chart: / Bachelor of Science in Mathematics :triangular_ruler:.\
+:book: Master of Science in Statistics :bar_chart:.
+:book: Bachelor of Science in Mathematics :triangular_ruler:.\
 :computer: I'm working on Data Visualization; Web front-end development; Machine Learning.\
 :trophy: Awarded with the Competitive Master Thesis of the 2022 TSC Thesis Competition.
 
 ---
 ### I coding with
-[![My Skills](https://skillicons.dev/icons?i=py,r,tensorflow,mysql,matlab,md,js,html,css,flask,c,cpp,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,tensorflow,matlab,mysql&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md,js,html,css,flask&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git&perline=8)](https://skillicons.dev)
 
 ### I using with
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,discord,figma)](https://skillicons.dev)
 
+
+
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/ChenYiHsuan?theme=unicorn&font=Autour%20One&ext=heatmap)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Normi-CYH&theme=gruvbox_duo&border_radius=60&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ChenYiHsuan?theme=nord&font=Lato&ext=heatmap)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Normi-CYH)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
