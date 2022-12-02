@@ -30,7 +30,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ChenYiHsuan?theme=dark&font=Lato&ext=heatmap)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Normi-CYH&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Normi-CYH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Normi-CYH)](https://github.com/anuraghazra/github-readme-stats) -->
 
